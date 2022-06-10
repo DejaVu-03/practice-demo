@@ -1,2 +1,2 @@
 # practice-demo
-A demo to practice my js skills.
+A demo to improve my js skills.
